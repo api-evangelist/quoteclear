@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://quoteclear.web.app/
 common:
+  - type: DomainSecurity
+    url: security/quoteclear-domain-security.yml
   - type: Website
     url: https://quoteclear.web.app/
   - type: PublicAPIsListing
