@@ -39,7 +39,6 @@ apis:
   - name: quoteclear
     description: "Ever-growing list of James Clear quotes from the 3-2-1 Newsletter"
     humanURL: https://quoteclear.web.app/
-    baseURL: https://quoteclear.web.app/
     tags:
       - Personality
     properties:
